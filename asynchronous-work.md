@@ -25,7 +25,7 @@ This has numerous further advantages, including but not limited to:
 - businesses can save a siginifcant expense on office space
 - ultimately, the reduction in the duration and number of meetings
 
-Consider that a 1 hour meeting with 9 atendees is a 9 hour meeting fromt he perspective of the business. It is incumbent on our teams to optimize the value of time spent in meetings to ensure that all meeting attendees' time is respected and used productively.
+Consider that **a 1 hour meeting with 9 atendees is a 9 hour meeting** from the perspective of the business. It is incumbent on our teams to optimize the value of time spent in meetings to ensure that all meeting attendees' time is respected and used productively.
 
 While the initial talked was boldly framed around the elimination of meetings. At its core, it is ultimately about communication. Witht he understanding that:
 
@@ -35,9 +35,8 @@ This document attempts to enumerate the modes of communication we have available
 
 ## WHAT
 
-
-
 Information that you cannot access has no value:
+
 - something that only one person knows is impossible to access without that person
 - something that is said in a video requires the video be viewed, this does not necessarily scale
 - something that is communicated in a video meeting doesn't exist if it is not written down or remembered
